@@ -5,3 +5,4 @@ yurikamemo
 
 memo
 KADAITEISYUTU
+KADAITEISYUTU
